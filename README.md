@@ -1,8 +1,8 @@
 ![CLEVER DATA GIT REPO](https://raw.githubusercontent.com/LiCongMingDeShujuku/git-resources/master/0-clever-data-github.png "李聪明的数据库")
 
-# 打破8192字符限制
-### Break the 8192 Character Limit
-**TIME STAMP**
+# 打破8192字符限制在SQL
+### Break the 8192 Character Limit in SQL
+**发布-日期: 2014年05月01日 (评论)**
 
 ![#](images/image0012.png?raw=true "#")
 
