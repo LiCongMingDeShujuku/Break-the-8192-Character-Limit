@@ -4,8 +4,6 @@
 ### Break the 8192 Character Limit in SQL
 **发布-日期: 2014年05月01日 (评论)**
 
-![#](images/image0012.png?raw=true "#")
-
 ## Contents
 
 - [中文](#中文)
